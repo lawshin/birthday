@@ -25,8 +25,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "最可爱的Lily": "./imgs/https://wx3.sinaimg.cn/mw2000/9769c963ly1h88b14t3sfj20mp0mpq4y.jpg",
-        // "今天是你的生日": "./imgs/birthday.jpg",
+        "最可爱的Lily": "https://wx3.sinaimg.cn/mw2000/9769c963ly1h88b14t3sfj20mp0mpq4y.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
