@@ -9,6 +9,10 @@ var config = {
         "与世界相遇的第28年",
         "新的一岁",
         "祝你遇见新的世界",
+        "大海或许真的是最爱小鲤鱼的吧",
+        "因为它帮小鲤鱼实现了天天念叨的愿望",
+        "你看小鲤鱼天天blue blue blue的",
+        "大海就把自己都变成了蓝色了喔",
         "YAMI~~",
     ],
     /**
@@ -21,7 +25,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "最可爱的Lily": "./https://wx4.sinaimg.cn/mw690/734012afly1h8893kih6jj20u0194jxq.jpg",
+        "最可爱的Lily": "./imgs/https://wx4.sinaimg.cn/mw690/734012afly1h8893kih6jj20u0194jxq.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
