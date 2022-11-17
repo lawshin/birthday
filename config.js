@@ -8,7 +8,7 @@ var config = {
         "今天是你的生日",
         "与世界相遇的第28年",
         "新的一岁",
-        "遇见新的世界",
+        "祝你遇见新的世界",
         "YAMI~~",
     ],
     /**
@@ -21,7 +21,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我们": "./https://wx4.sinaimg.cn/mw690/734012afly1h8893kih6jj20u0194jxq.jpg",
+        "最可爱的Lily": "./https://wx4.sinaimg.cn/mw690/734012afly1h8893kih6jj20u0194jxq.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -29,7 +29,7 @@ var config = {
         turn_on: "开始",
         play: "音乐",
         bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "好像少点东西?",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
